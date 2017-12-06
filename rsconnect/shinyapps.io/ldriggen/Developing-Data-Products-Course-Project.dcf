@@ -1,0 +1,13 @@
+name: Developing-Data-Products-Course-Project
+title: Developing-Data-Products-Course-Project
+username:
+account: ldriggen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 244869
+bundleId: 1117790
+url: https://ldriggen.shinyapps.io/Developing-Data-Products-Course-Project/
+when: 1512522805.54863
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Capture-app.PNG|Developing Data Products Presentation.md|Developing Data Products Presentation.Rpres
